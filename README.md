@@ -12,7 +12,7 @@ They provided proxy certificate that should be used when making requests.
 
 ![image](https://user-images.githubusercontent.com/91039005/155667799-e620d640-99f1-4510-aecf-35c9a482984b.png)
 
-The field we're intereste in is 'laststatement'
+The field I was interested in is 'laststatement'
 ![image](https://user-images.githubusercontent.com/91039005/155668007-22505222-00d5-4675-82d5-8f0a736aa507.png)
 
 I made some processing of text:
