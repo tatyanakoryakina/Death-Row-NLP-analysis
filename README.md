@@ -20,6 +20,7 @@ I made some processing of text:
 - remove stopwords
 - tokenize words
 - normalize words
+
 ![image](https://user-images.githubusercontent.com/91039005/155668221-005de282-ec2c-4c82-9d44-c7d22d1787ad.png)
 
 Made a correlation matrix filled with Jaccard index. comparing each two text to each other.
